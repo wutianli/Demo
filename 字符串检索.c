@@ -1,4 +1,4 @@
-  char rbuf[210];
+  	char rbuf[210];
 	char *file_name = "/tmp/bm.cfg";
 	int fp;
 	char *p = NULL;
